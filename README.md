@@ -31,7 +31,7 @@ The fig. here represents the Model schematis that is to be implemented here.</br
 
 
 ## Circuit Implementation</br>
-- Circuit implementation of op amp block</br>
+</br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100523474/157722483-52098a3c-0fc4-4861-94f3-426155441663.png">
 </p>
@@ -103,7 +103,7 @@ endmodule
 
 
 ## Simulation Results and Observation</br>
-- D-FF USING VERILOG on MAKERCHIP</br>
+</br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86653033/157718393-8cb21aee-2a7e-4536-be97-c5ea37c6bc4c.png">
 </p>
