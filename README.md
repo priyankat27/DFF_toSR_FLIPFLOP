@@ -25,7 +25,6 @@ The fig. here represents the Model schematis that is to be implemented here.</br
   <img src="https://user-images.githubusercontent.com/100523474/157722013-17c35907-fd3e-46ec-96bb-4c9bbb3f00d3.png">
 </p>
 
-![image](https://user-images.githubusercontent.com/100523474/157724307-67e30be0-67d6-4339-96a6-1203891ad377.png)
 
 
 
@@ -36,6 +35,10 @@ The fig. here represents the Model schematis that is to be implemented here.</br
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100523474/157722483-52098a3c-0fc4-4861-94f3-426155441663.png">
 </p>
+
+## Output Waveform</br>
+![image](https://user-images.githubusercontent.com/100523474/157724307-67e30be0-67d6-4339-96a6-1203891ad377.png)
+
 
 
 
